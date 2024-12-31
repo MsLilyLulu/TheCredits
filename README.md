@@ -2,7 +2,9 @@
 
 TheCredits is a super simple and barebones scrolling credits library for LÖVE2D.
 
-----------------------
+![scrolling gif](https://github.com/MsLilyLulu/TheCredits/blob/main/scroll.gif)
+
+---
 
 ## Example
 ```lua
@@ -117,4 +119,8 @@ end
 ## Draw types
 Credits can be rendered 2 ways (see above for more). First (and the default) is ```horizontal```, which looks like this:
 
-The second way is ```vertical```, which looks like this":
+![horizontal example](https://github.com/MsLilyLulu/TheCredits/blob/main/horizontal.png)
+
+The second way is ```vertical```, which looks like this:
+
+![vertical example](https://github.com/MsLilyLulu/TheCredits/blob/main/vertical.png)
